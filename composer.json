@@ -1,0 +1,7 @@
+{
+    "name": "claudehohl/stikked",
+    "description": "An advanced and beautiful pastebin written in PHP",
+    "type": "project",
+    "license": "CC0",
+    "require": {}
+}

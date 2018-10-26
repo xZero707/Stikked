@@ -7,3 +7,11 @@ nbproject
 
 /vendor/
 /composer.lock
+
+
+# Ignores the whole .idea folder and all .iml files
+.idea/
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
